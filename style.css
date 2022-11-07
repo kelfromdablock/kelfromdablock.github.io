@@ -1,0 +1,23 @@
+.header {
+    background-color:gray;
+    color:antiquewhite;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+    font-family:Arial; 
+}
+
+#computer-dog {
+
+}
+
+.character {
+    background-color:lightslategrey;
+    color: whitesmoke;
+    font-family: arial;
+    text-align: center;
+}
+
+.interest-list {
+    font-family: serif;
+}
